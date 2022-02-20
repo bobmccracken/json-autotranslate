@@ -12,7 +12,7 @@ pids
 *.pid.lock
 
 # Build output
-lib/
+# lib/
 
 # Secrets
 service-account.json
